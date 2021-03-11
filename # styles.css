@@ -1,0 +1,23 @@
+header {
+    background-color: blue;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: cursive;
+}
+
+section, footer, aside, nav, article {
+    border: 1px solid black;
+}
+
+
+
+
